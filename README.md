@@ -7,6 +7,8 @@
 
 ![R](https://img.shields.io/badge/R-90d5ff?style=flat-square&logo=R&logoColor=white) ![Python](https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOBOXY&layout=donut&theme=tokyonight&card_width=10)
+
 <!--
 **BOBOXY/BOBOXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
