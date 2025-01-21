@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m a paleontology student at Nanjing University. I mainly use R and Python for my research and projects.
-- 👀 I’m interested in paleontology and photography
-- 🌱 I’m currently studying Vertebrate Paleontology
-- :guitar: I enjoy playing classical guitar
+- 👀 I’m interested in photography, making coffee, and cycling.
+- :guitar: I enjoy playing classical guitar.
 
 ![R](https://img.shields.io/badge/R-90d5ff?style=flat-square&logo=R&logoColor=white) ![Python](https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white)
 
